@@ -16,3 +16,5 @@ Utilisation de modeles de Regression Logistique et Forêts Aleatoire.
 - Projet_Finale_RM.pdf  : Présentation
 
 ## Ouvrir le projet
+- Ouvrir le notebook avec Jupyter / Colab
+- Ouvrir le .pbix avec Power BI Desktop
