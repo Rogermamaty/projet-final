@@ -10,10 +10,9 @@ Utilisation de modeles de Regression Logistique et Forêts Aleatoire.
 - PowerPoint
 
 ## Contenu
-- Projet_Finale_RM.ipynb: Notebook
-- Projet_Finale_RM.pbix : Power BI
-- Projet_Finale_RM.pptx : Présentation
-- Projet_Finale_RM.pdf  : Présentation
+- Notebook_Projet_Finale_RM.ipynb: Notebook
+- Dashboard_Projet_Finale_RM.pbix : Power BI
+- Presentation_Projet_Finale_RM.pdf  : Présentation
 
 ## Ouvrir le projet
 - Ouvrir le notebook avec Jupyter / Colab
